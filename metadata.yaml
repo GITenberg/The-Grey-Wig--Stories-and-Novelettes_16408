@@ -1,0 +1,31 @@
+_repo: The-Grey-Wig--Stories-and-Novelettes_16408
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zangwill, Israel
+    alias: Zangwill, I. (Israel)
+    birthdate: 1864
+    deathdate: 1926
+    gutenberg_agent_id: '1987'
+    url: http://www.gutenberg.org/2009/agents/1987
+    wikipedia: http://en.wikipedia.org/wiki/Israel_Zangwill
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16408'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- Fiction'
+- !lcc 'PR'
+tableOfContents: The grey wig -- Chassé-croisé -- The woman beater -- The eternal
+  feminine -- The silent sisters -- The big bow mystery -- Merely Mary Ann -- The
+  serio-comic governess.
+title: 'The Grey Wig: Stories and Novelettes'
+url: http://www.gutenberg.org/ebooks/16408
